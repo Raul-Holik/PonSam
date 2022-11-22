@@ -1,0 +1,8 @@
+C:\Users\Osoba\Documents\Skola\PonSam\PonSam\bin\Debug\PonSam.exe.config
+C:\Users\Osoba\Documents\Skola\PonSam\PonSam\bin\Debug\PonSam.exe
+C:\Users\Osoba\Documents\Skola\PonSam\PonSam\bin\Debug\PonSam.pdb
+C:\Users\Osoba\Documents\Skola\PonSam\PonSam\obj\Debug\PonSam.csproj.AssemblyReference.cache
+C:\Users\Osoba\Documents\Skola\PonSam\PonSam\obj\Debug\PonSam.csproj.SuggestedBindingRedirects.cache
+C:\Users\Osoba\Documents\Skola\PonSam\PonSam\obj\Debug\PonSam.csproj.CoreCompileInputs.cache
+C:\Users\Osoba\Documents\Skola\PonSam\PonSam\obj\Debug\PonSam.exe
+C:\Users\Osoba\Documents\Skola\PonSam\PonSam\obj\Debug\PonSam.pdb
